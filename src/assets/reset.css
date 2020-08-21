@@ -1,0 +1,10 @@
+body,dl,dt,ul,ol,h1,h2,h3,h4,input,button,textarea,p,dd{ margin: 0; padding: 0;}
+img{border: 0; vertical-align: middle;}
+:focus{outline: 0;}
+ol,ul,li{list-style: none;}
+:link,:visited{text-decoration: none;}
+table{border-collapse: collapse;border-spacing: 0;}
+input,button,textarea,select,option{font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;}
+.clearfix:after{content: "";display: block;height: 0;clear: both;visibility: hidden;}
+.clearfix{_zoom:1;}
+.clear{clear: both;}
